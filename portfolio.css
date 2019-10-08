@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/*CSS document */
+
+html
+{
+	background-color: #33cc00;
+
+}
+
+#text
+{
+	float: right;
+	margin-right: 800px;
+}
